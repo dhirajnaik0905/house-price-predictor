@@ -71,9 +71,9 @@ This project is licensed under the MIT License.
 Contributions are welcome! Feel free to submit issues and pull requests.
 
 🎯 Author
-Your Name
-📧 Contact: your-email@example.com
-🔗 GitHub: github.com/YOUR_USERNAME
+Dhiraj Naik
+📧 Contact: dhirajnaik0905@gmail.com.com
+🔗 GitHub: github.com/dhirajnaik0905
 
 Enjoy predicting house prices! 🏡💰
 
